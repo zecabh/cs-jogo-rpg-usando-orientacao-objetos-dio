@@ -1,0 +1,15 @@
+C:\Projects\cs-jogo-de-rpg\bin\Debug\net6.0\cs-jogo-de-rpg.exe
+C:\Projects\cs-jogo-de-rpg\bin\Debug\net6.0\cs-jogo-de-rpg.deps.json
+C:\Projects\cs-jogo-de-rpg\bin\Debug\net6.0\cs-jogo-de-rpg.runtimeconfig.json
+C:\Projects\cs-jogo-de-rpg\bin\Debug\net6.0\cs-jogo-de-rpg.dll
+C:\Projects\cs-jogo-de-rpg\bin\Debug\net6.0\cs-jogo-de-rpg.pdb
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.csproj.AssemblyReference.cache
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.AssemblyInfoInputs.cache
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.AssemblyInfo.cs
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.csproj.CoreCompileInputs.cache
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.dll
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\refint\cs-jogo-de-rpg.dll
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.pdb
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\cs-jogo-de-rpg.genruntimeconfig.cache
+C:\Projects\cs-jogo-de-rpg\obj\Debug\net6.0\ref\cs-jogo-de-rpg.dll
